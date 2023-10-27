@@ -1,0 +1,124 @@
+body {
+    background-color: #040D12;
+    /* background-image: url("mukfootball.png");
+    background-size: 100%;
+    background-repeat: no-repeat; */
+}
+
+.scorestream-widget-container {
+    width: 350px;
+}
+
+img {
+    width: 75px;
+    display: block;
+}
+
+#muskego {
+    padding-top: 1em;
+}
+
+#mukwonago {
+    padding-top: 0.8em;
+}
+
+#ocon {
+    padding-top: 0.8em;
+}
+
+#classic8 {
+    width: 90px;
+}
+
+.nav-icon {
+    transition: transform .2s;
+}
+
+.nav-icon:hover {
+    transform: scale(1.2);
+}
+
+.nav-rule {
+    color: #183D3D;
+    border-top: 5px solid #5C8374;
+    border-radius: 50%;
+    width: 73%;
+    margin: auto;
+}
+
+.nav-text {
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: transform .2s;
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav-text:hover {
+    transform: scale(1.1);
+}
+
+h1 {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 100px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+#scoreboard {
+    height: 138px;
+    width: 95%;
+    margin: auto;
+}
+
+.slideshow {
+    width: 90%;
+    height: 50%;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 white, 0 6px 20px 0 white;
+}
+
+footer {
+    width: 100%;
+    background-color: #183D3D;
+    text-align: center;
+}
+
+#footer {
+    padding-top: 10px;
+    color: white;
+}
+
+.footer-icon {
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.muk-header {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+.team-banner {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
