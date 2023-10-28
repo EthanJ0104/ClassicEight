@@ -9,7 +9,7 @@ body {
     width: 350px;
 }
 
-img {
+.nav-img {
     width: 75px;
     display: block;
 }
@@ -121,4 +121,11 @@ footer {
     display: inline-block;
     margin-left: 10px;
     margin-right: 10px;
+}
+
+.mukwonago-grid {
+    width: 100%;
+    height: 90%;
+    box-shadow: 0 1px 1px 0 white, 0 1px 10px 0 white;
+    border-radius: 3%;
 }
