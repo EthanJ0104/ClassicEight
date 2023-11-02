@@ -46,6 +46,14 @@ body {
     margin: auto;
 }
 
+.body-rule {
+    color: white;
+    border-top: 5px solid white;
+    border-radius: 50%;
+    width: 95%;
+    margin: auto;
+}
+
 .nav-text {
     font-size: 25px;
     font-weight: 500;
